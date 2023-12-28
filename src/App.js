@@ -22,6 +22,8 @@ function App() {
           <p>{j.content}</p>
         </div>
       })}
+      <h3>tires</h3>
+
     </div>
   );
 }
